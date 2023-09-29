@@ -1,4 +1,4 @@
-# My Personal Mac Setup Script
+# Mac Setup Script
 
 This is a personal Bash script for quickly setting up a new Mac. It automates the installation of essential applications and configurations.
 
